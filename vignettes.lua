@@ -25,11 +25,11 @@ GTD_VIGNETTE_GROUPS = {
         entries = {
             ["Garrison Cache"] = {
                 defaultEnabled = false,
-                note = "Garrison Cache",
+                note = "Daily garrison resource cache at your Draenor garrison",
             },
             ["Full Garrison Cache"] = {
                 defaultEnabled = false,
-                note = "Full Garrison Cache",
+                note = "Garrison cache is full; visit your garrison to collect resources",
             },
         },
     },
